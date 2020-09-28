@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ham_generics", "Ham_generics\Ham_generics.csproj", "{6B108541-59F8-4EFF-BFDD-8A938BAFF3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B108541-59F8-4EFF-BFDD-8A938BAFF3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B108541-59F8-4EFF-BFDD-8A938BAFF3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B108541-59F8-4EFF-BFDD-8A938BAFF3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B108541-59F8-4EFF-BFDD-8A938BAFF3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EA216A-24D0-48F1-A189-16F3941877C7}
+	EndGlobalSection
+EndGlobal
